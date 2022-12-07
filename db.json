@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "An Example Book",
+      "id": 1
+    },
+    {
+      "title": "Lorem Ipsum",
+      "id": 2
+    },
+    {
+      "title": "Dolor Sit Amet",
+      "id": 3
+    }
+  ]
+}
