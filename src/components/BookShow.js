@@ -18,7 +18,7 @@ function BookShow({ book }) {
         setShowEdit(false);
     };
 
-    let content = <h3>{book.title}</h3>;
+    let content = <><h3>{book.title}</h3><p>By: {book.author}</p></>;
     if(showEdit){
         content = <BookEdit book={book} onSubmit={handleSubmit} />;
     };
