@@ -12,5 +12,8 @@ This app was created along side a Modern React with Redux course hosted on udemy
     - The Effect hook
 - Communication using Context system
 
-## Start the local API server & application
+## Instructions
+After downloading, navigate to project folder and `npm install`
+
+### Start the local API server & application
 `npm run server` and `npm run start`
